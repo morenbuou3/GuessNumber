@@ -1,4 +1,4 @@
-const generate = require('../src/JudgeInput.js')
+const generate = require('../src/ValidateInput.js')
 
 describe('', () => {
     describe('判断输入是否合法', () => {
